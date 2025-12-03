@@ -1,0 +1,19 @@
+file 'Slide 1.jpg'
+duration 60.0
+file 'Slide 2.jpg'
+duration 127.0
+file 'Slide 3.jpg'
+duration 182.0
+file 'Slide 4.jpg'
+duration 139.0
+file 'Slide 5.jpg'
+duration 122.0
+file 'Slide 6.jpg'
+duration 46.0
+file 'Slide 7.jpg'
+duration 94.0
+file 'Slide 8.jpg'
+duration 99.0
+file 'Slide 9.jpg'
+duration 66.0
+file 'Slide 10.jpg'
